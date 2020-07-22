@@ -1,0 +1,18 @@
+{
+  "name": "raspi",
+  "address": "192.168.0.200",
+  "terminals": [
+    {
+       "name": "esp-link4",
+       "address": "192.168.0.122",
+       "type": "adm3a",
+       "baudrate": "9600"
+    },
+    {
+       "name": "esp-link2",
+       "address": "192.168.0.125",
+       "type": "tvi910+",
+       "baudrate": "9600"
+    }
+  ]
+}
